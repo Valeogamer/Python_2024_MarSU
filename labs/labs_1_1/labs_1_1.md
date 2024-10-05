@@ -90,4 +90,5 @@
 ![colab](imgs_1_1/17.png) \
 ![colab](imgs_1_1/18.png)
 ____
+
 [Вернуться на главную страницу](https://valeogamer.github.io/Python_2024_MarSU/)

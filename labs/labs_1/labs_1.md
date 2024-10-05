@@ -82,4 +82,5 @@
     ![coderun](imgs_1/l1_img20.png)
 
 ____
+
 [Вернуться на главную страницу](https://valeogamer.github.io/Python_2024_MarSU/)

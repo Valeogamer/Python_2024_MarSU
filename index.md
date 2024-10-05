@@ -11,6 +11,9 @@
 - [Лабораторная работа 5](labs/labs_5/labs_5.md) - `Циклы`
 - Лабораторная работа 6
 - Лабораторная работа 7
+- Лабораторная работа 8
+- Лабораторная работа 9
+- Лабораторная работа 10
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" style="vertical-align: middle" /> Группы

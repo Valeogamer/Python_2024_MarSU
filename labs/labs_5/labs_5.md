@@ -8,7 +8,7 @@
 2. `while`
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="30" height="30" style="vertical-align: middle"/> Цикл FOR
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="30" height="30" style="vertical-align: middle"/> FOR
 Цикл for используется для перебора элементов последовательности (списка, строки, кортежа, множества, словаря и других итерируемых объектов).
 
 ```python
@@ -143,7 +143,7 @@
     8
 ```
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="30" height="30" style="vertical-align: middle"/> Цикл while
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Avocado.png" alt="Avocado" width="30" height="30" style="vertical-align: middle"/> while
 
 Цикл `while` выполняет блок кода до тех пор, пока условие истинно.
 
@@ -298,7 +298,6 @@ for num in range(5):
 
 6. Напишите программу, которая выводит все числа от `1` до `100`, которые не делятся на `4` и `6` одновременно. Используйте оператор `continue` для пропуска чисел, которые делятся на оба числа.
 
-###
 ___
 
 [Вернуться на главную страницу](https://valeogamer.github.io/Python_2024_MarSU/)
