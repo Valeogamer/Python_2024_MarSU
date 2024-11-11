@@ -12,8 +12,9 @@
 - [Лабораторная работа 6](labs/labs_6/labs_6.md) - `Структуры данных`
 - [Лабораторная работа 7](labs/labs_7/labs_7.md) - `Функции`
 - Лабораторная работа 8 - `Библиотеки`
-- Лабораторная работа 9 - `Функциональное программирование`
-- Лабораторная работа 10 - `Проект`
+- Лабораторная работа 9 - `Запись и чтение файла`
+- Лабораторная работа 10 - `Функциональное программрование`
+- Лабораторная работа 11 - `Проект`
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" style="vertical-align: middle" /> Группы
