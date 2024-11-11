@@ -2,14 +2,14 @@
 
 ## Цель научиться использовать функции
 
-### Что такое функция?
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Что такое функция?
 
-Функция — это именованный блок кода, который выполняет определённую задачу. Основная цель функций — это улучшение структуры кода, упрощение его понимания и повторное использование.
+`Функция` — это именованный блок кода, который выполняет определённую задачу. Основная цель функций — это улучшение структуры кода, упрощение его понимания и повторное использование.
 
 **Пример:**
 Представьте, что вы хотите написать программу, которая будет складывать числа. Если вы просто напишете код для сложения каждый раз, когда вам это нужно, ваш код станет громоздким. Вместо этого вы можете создать функцию, которая делает это за вас.
 
-### Синтаксис функции
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Синтаксис функции
 
 Вот как выглядит базовая структура функции в Python:
 
@@ -25,7 +25,7 @@ def имя_функции(параметры):
 - **`параметры`**: значения, которые функция может принимать (например, числа, строки и т. д.). Эти значения передаются в скобках.
 - **`return`**: оператор, который используется для возврата результата функции. Если `return` не указан, функция вернёт `None`.
 
-### Докстринги
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Докстринги
 
 Докстринг — это строка, которая описывает, что делает функция. Она помогает другим разработчикам (и вам самим) понять, как использовать функцию.
 
@@ -33,46 +33,46 @@ def имя_функции(параметры):
 
 ```python
 def sum(a, b):
-    """Возвращает сумму двух чисел a и b."""
+    """Возвращает сумму двух чисел a и b.""" <- вот  это докстринг
     return a + b
 
 result = sum(10, 11)
 print(result) # выведет 21
 ```
 
-### Параметры функции
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Параметры функции
 
 Параметры — это переменные, которые вы определяете в скобках функции. Они служат для передачи данных в функцию.
 
-### Обязательные параметры
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Обязательные параметры
 
 Эти параметры должны быть переданы при вызове функции.
 
 ```python
-def mul(a, b):
+def mul(a, b): # обязательные параметры `a` и `b`
     return a * b
 
 result = mul(5, 5)
 print(result)  # 25
 ```
 
-### Необязательные параметры с значениями по умолчанию
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Необязательные параметры с значениями по умолчанию
 
 Если значение не передано, используется значение по умолчанию.
 
 ```python
-def hello(name="Гость"):
+def hello(name="Гость"): # name необязательный, по умолчанию Гость.
     print(f"Привет, {name}!")
 
 hello()  # Выведет: Привет, Гость!
 hello("Аня")  # Выведет: Привет, Аня!
 ```
 
-### Возврат значений
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Возврат значений
 
 Функции могут возвращать одно или несколько значений с помощью оператора `return`. Если `return` не используется, функция возвращает `None`.
 
-### Возврат одного значения
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Возврат одного значения
 
 ```python
 def pow(n):
@@ -82,7 +82,7 @@ result = pow(4)
 print(result)  # 16
 ```
 
-### Возврат нескольких значений
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Возврат нескольких значений
 
 Можно вернуть несколько значений в виде кортежа.
 
@@ -97,11 +97,11 @@ print(div)  # Выведет: 3.3
 print(rem)    # Выведет: 1
 ```
 
-### Области видимости
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Области видимости
 
 Область видимости переменных определяет, где переменная доступна.
 
-### Локальные переменные
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Локальные переменные
 
 Локальные переменные определяются внутри функции и доступны только в ней.
 
@@ -114,7 +114,7 @@ func()  # Выведет: Я локальная
 print(local_var)  # Ошибка, переменная не доступна так как существует только внутри функции или не возвращена
 ```
 
-### Глобальные переменные
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Глобальные переменные
 
 Глобальные переменные определяются вне всех функций и доступны в любой части программы.
 
@@ -128,11 +128,11 @@ func()  # Выведет: Я глобальная
 print(global_var) 
 ```
 
-### Аргументы функции
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Аргументы функции
 
 При вызове функции можно передавать аргументы разными способами.
 
-### Позиционные аргументы
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Позиционные аргументы
 
 Параметры передаются в том порядке, в котором они указаны.
 
@@ -140,12 +140,12 @@ print(global_var)
 def sum(a, b):
     return a + b
 
-print(сложить(2, 3))  # Выведет: 5
+print(sum(2, 3))  # Выведет: 5
 res = sum(5, 10)
-print(res)
+print(res) # Выведет 15
 ```
 
-### Ключевые аргументы
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Ключевые аргументы
 
 Аргументы передаются с указанием имени параметра.
 
@@ -153,10 +153,10 @@ print(res)
 def welcome(name, text="Привет"):
     print(f"{name}, {name}!")
 
-welcome(namr="Аня", text="Здравствуйте")  # Выведет: Здравствуйте, Аня!
+welcome(name="Аня", text="Здравствуйте")  # Выведет: Здравствуйте, Аня!
 ```
 
-### Аргументы переменной длины
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Аргументы переменной длины
 
 Если вы не знаете, сколько аргументов будет передано, можно использовать `*args` и `**kwargs`.
 
@@ -174,7 +174,7 @@ func(1, 2, 3, имя="Аня", возраст=30)
 # {'имя': 'Аня', 'возраст': 30}
 ```
 
-### Рекурсивные функции
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Wolf.png" alt="Wolf" width="30" height="30" style="vertical-align: middle"/> Рекурсивные функции
 
 Рекурсивная функция — это функция, которая вызывает саму себя. Это позволяет решать задачи, разбивая их на подзадачи.
 
