@@ -21,6 +21,10 @@
 [СТ-21](CT_21) \
 [МП-21](MP-21)
 
+### Допуск к экзамену/зачету
+1. Сдать все лабораторные работы с 1 - 9
+
+
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25" style="vertical-align: middle" /> Полезности
 - [Введение в Python от Яндекс Образования](https://education.yandex.ru/handbook/python/article/intro)
 - [Тутор по Python](https://metanit.com/python/tutorial/)
