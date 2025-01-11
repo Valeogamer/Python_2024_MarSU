@@ -17,9 +17,8 @@
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" style="vertical-align: middle" /> Группы
-[ММ-31](MM_31) \
-[СТ-21](CT_21) \
-[МП-21](MP-21)
+
+[СТ-21](CT_21)
 
 ### Допуск к экзамену/зачету
 1. Сдать все лабораторные работы с 1 - 9
