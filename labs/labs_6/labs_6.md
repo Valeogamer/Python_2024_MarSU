@@ -880,112 +880,75 @@ my_string = "123a"  # result = False
   - Средний доход.
   - Максимальный и минимальный доход.
   - Медиану доходов (для вычисления медианы отсортируйте список).
+  - Моду
+  - Дисперсию
+  - СКО
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 2: Статистика расходов
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 2: ???
 
-**Описание задания**: Создайте программу для анализа расходов. Выполните следующие шаги:
-- Попросите пользователя ввести категории расходов и соответствующие суммы (например, "еда 200, транспорт 150").
-- Сохраните данные в словаре, где ключ — это категория, а значение — сумма.
-- Выведите общую сумму расходов, расходы по каждой категории и категорию с максимальными расходами.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 3: Инфляция
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 3: ???
 
-**Описание задания**: Напишите программу для расчета инфляции. Для этого:
-- Попросите пользователя ввести несколько цен товаров (например, "100 150 200") и сохраните их в списке.
-- Попросите ввести те же товары с новыми ценами.
-- Вычислите процент инфляции для каждого товара по формуле:
-  инфляция = ((новая цена - старая цена) / старая цена) * 100
-- Выведите результаты.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 4: Прогнозирование прибыли
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 4: ???
 
-**Описание задания**: Напишите программу для прогнозирования прибыли на основе исторических данных. Для этого:
-- Попросите пользователя ввести месячные прибыли за год (например, 1000, 1200, 1100 и т.д.) и сохраните данные в списке.
-- Вычислите среднюю прибыль за год.
-- Попросите пользователя ввести процент роста прибыли на следующий год и вычислите прогнозируемую прибыль.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 5: Оценка кредитоспособности
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 5: ???
 
-**Описание задания**: Создайте программу для оценки кредитоспособности на основе дохода и долгов. Выполните следующие шаги:
-- Попросите пользователя ввести ежемесячный доход и список долгов (разделяя значения пробелами).
-- Сохраните долги в списке и вычислите общий долг.
-- Вычислите коэффициент долговой нагрузки по формуле: коэфф = сумма долгов / ежемесячный доход
-- Если коэффициент больше 0.4, выведите сообщение о низкой кредитоспособности, иначе — о высокой.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 6: Расчет скидки
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 6: ???
 
-**Описание задания**: Напишите программу для расчета скидки на покупки. Для этого:
-- Попросите пользователя ввести начальную цену товара и процент скидки.
-- Вычислите окончательную цену товара после применения скидки по формуле: окончательная цена = начальная цена * (1 - (скидка / 100))
-- Сохраните и выведите историю цен и скидок в списке.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7: Расчет налога на прибыль
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7: ???
 
-**Описание задания**: Создайте программу для расчета налога на прибыль. Для этого:
-- Попросите пользователя ввести прибыль за год.
-- Установите процент налога (например, 20%).
-- Вычислите и выведите сумму налога, а также чистую прибыль после налогообложения.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8: Оптимизация бюджета
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8: ???
 
-**Описание задания**: Напишите программу для оптимизации личного бюджета. Для этого:
-- Попросите пользователя ввести список доходов и расходов (разделяя их пробелами).
-- Сохраните доходы в одном списке и расходы в другом.
-- Вычислите общий доход, общий расход и оставшуюся сумму.
-- Выведите рекомендацию: "Экономьте" или "Все в порядке" в зависимости от оставшейся суммы.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 9: Расчет коэффициента вариации
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 9: ???
 
-**Описание задания**: Создайте программу для расчета коэффициента вариации набора данных. Для этого:
-- Попросите пользователя ввести набор чисел (например, "10 20 30 40").
-- Сохраните данные в списке и вычислите среднее значение.
-- Вычислите стандартное отклонение.
-- Найдите коэффициент вариации по формуле: коэфф варации = 100 * стандартное отклонение / среднее значение
-- Выведите результат.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 10: Сравнение цен
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 10: ???
 
-**Описание задания**: Напишите программу для сравнения цен на продукты. Для этого:
-- Попросите пользователя ввести названия продуктов и их цены в разных магазинах (например, "Яблоки 100, Груши 120").
-- Сохраните данные в словаре, где ключ — это название продукта, а значение — цена.
-- Позвольте пользователю ввести название продукта и найдите самый дешевый вариант, если он существует.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 11: Составление отчета о продажах
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 11: ???
 
-**Описание задания**: Создайте программу для составления отчета о продажах. Для этого:
-- Попросите пользователя ввести продажи за месяц по категориям (например, "Одежда 300, Еда 500").
-- Сохраните данные в словаре, где ключ — это категория, а значение — сумма продаж.
-- Выведите общую сумму продаж и продажи по каждой категории.
+**Описание задания**: 
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 12: Анализ цен на акции
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 12: ???
 
-**Описание задания**: Напишите программу для анализа цен на акции. Для этого:
-- Попросите пользователя ввести цены акций в течение недели (например, "100 105 102 110 108").
-- Сохраните данные в списке и вычислите среднюю цену.
-- Найдите максимальную и минимальную цены за неделю.
-- Выведите результаты и рекомендации: "Покупать", "Продавать" или "Держать" в зависимости от изменений.
+**Описание задания**: 
 
 ___
 

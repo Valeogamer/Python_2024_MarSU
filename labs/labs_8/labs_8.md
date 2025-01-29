@@ -755,11 +755,8 @@ Pi: 3.142
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 6: Симуляция броска двух игральных костей
 Напишите программу, которая симулирует бросок двух игральных костей. Повторите 1000 раз. Выведите наиболее часто выпадающеся число на костях.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7: Симуляция случайных событий
-Создайте программу, которая симулирует случайные события с разной вероятностью. Например, вероятность выпадения "дождя" — 30%, "солнечной погоды" — 50%, а "снега" — 20%. Выведите результат симуляции.
-Подсказка: используйте random.choices() с параметром weights.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8: Статистические вычисления с массивом случайных чисел
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7: Статистические вычисления с массивом случайных чисел
 Сгенерируйте массив из 100 случайных чисел с нормальным распределением (среднее 0, стандартное отклонение 1).
 
 Вычислите:
@@ -768,7 +765,7 @@ Pi: 3.142
 - Стандартное отклонение,
 - Минимальное и максимальное значение.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 9: Матричные операции
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8: Матричные операции
 Создайте две матрицы размером 3x3, содержащие случайные числа в диапазоне от 1 до 10.
 
 Выполните следующие операции:
@@ -778,7 +775,7 @@ Pi: 3.142
 - Вычисление определителя первой матрицы с помощью np.linalg.det().
 - Для полученной матрицы после транспонирования найдите её обратную матрицу с помощью np.linalg.inv() (если она существует).
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 10: Фильтрация и изменение массива
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 9: Фильтрация и изменение массива
 - Создайте одномерный массив из 50 случайных целых чисел от -10 до 10.
 - Выведите все положительные числа, которые больше 5.
 - Все отрицательные числа в массиве замените на ноль.
@@ -792,7 +789,7 @@ Pi: 3.142
 - Чтобы заменить все элементы, которые делятся на 3, на их квадрат, используйте условие с arr % 3 == 0, и присваивайте квадрат элементов с помощью arr[arr % 3 == 0] = arr[arr % 3 == 0] ** 2.
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 11: Построение графиков для нескольких функций
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 10: Построение графиков для нескольких функций
 Построить на одном графике несколько функций: $y=x^2$, $y=x^3$, $y=sin(x)$ в интервале от -10 до 10.
 
 Использовать различные стили линий и цветов для каждой функции. Добавить легенду и соответствующие подписи для осей.
@@ -803,7 +800,7 @@ Pi: 3.142
 - Заголовок для графика
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 12:  График с субплотами для разных функций
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 11:  График с субплотами для разных функций
 Построить 2 графика на одном холсте. На первом из них отобразить функцию $y=exp^x$, а на втором функцию $y=ln(x)$
 
 **Требования:**
@@ -813,15 +810,6 @@ Pi: 3.142
 - На втором графике отобразить $y=ln(x)$
   
 У каждого графика должен быть свой заголовок и подписи осей
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 13:  Сравнение роста двух компаний
-Представим, что две компании начали свою деятельность в 2010 году и каждую последующую прибыль увеличивали на 10% и 12% соответственно. Построить графики их роста за 10 лет.
-
-Требования:
-
-- Построить два графика с использованием разных цветов и стилей линий для каждой компании
-- Добавить метки на графике с точными значениями прибыли
-- Подписи для осей и заголовок
 
 
 ___

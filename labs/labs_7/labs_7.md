@@ -199,86 +199,49 @@ print(result)
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 1: Калькулятор
 
 **Описание:** Создайте программу, которая реализует простой калькулятор. Функции должны выполнять сложение, вычитание, умножение и деление.
-
-**Требования:**
 - Реализуйте функции `add`, `subtract`, `multiply` и `divide`.
 - В каждой функции должны быть параметры для двух чисел.
 - Функция `divide` должна обрабатывать случай деления на ноль.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 2: Конвертер единиц
 
-**Описание:** Напишите программу, которая конвертирует единицы измерения (метры, километры, миллиметры).
-
-**Требования:**
+**Описание:** Напишите функцию, которая конвертирует единицы измерения (метры, километры, миллиметры).
 - Создайте функцию convert_length, которая принимает три параметра: `значение`, `исходную единицу` и `целевую единицу(единица в которую конвертируем)`.
 - Реализуйте конвертацию между метрами, километрами и миллиметрами.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 3: Факториал числа
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 3: ???
 
-**Описание:** Создайте программу для вычисления факториала числа.
+**Описание:** 
 
-**Требования:**
-- Реализуйте функцию factorial, которая принимает одно целое неотрицательное число.
-- Функция должна использовать рекурсию.
-- Обработайте случай, когда передано отрицательное число.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 4: ???
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 4: Генератор последовательности Фибоначчи
+**Описание:** 
 
-**Описание:** Создайте программу, которая генерирует последовательность Фибоначчи.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 5: ???
 
-**Требования:**
-- Реализуйте функцию fibonacci, которая принимает одно целое число (количество элементов в последовательности).
-- Функция должна возвращать список из элементов последовательности Фибоначчи.
+**Описание:** 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 5: Печать таблицы умножения
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 6: ???
 
-**Описание:** Напишите программу, которая выводит таблицу умножения для заданного числа.
+**Описание:** 
 
-**Требования:**
-- Реализуйте функцию multiplication_table, которая принимает число и выводит таблицу умножения от 1 до 10.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7: ???
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 6: Калькулятор процентов
+**Описание:** 
 
-**Описание:** Напишите программу, которая вычисляет процент от заданного числа.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8: ???
 
-**Требования:**
-- Пользователь вводит число и процент.
-- Программа должна вычислить и вывести значение процента.
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7: Расчет простых процентов
-
-**Описание:** Создайте программу, которая вычисляет простые проценты.
-
-**Формула:** Простые проценты = Сумма * Процент * Время(в годах) / 100
-
-**Требования:**
-- Пользователь вводит сумму, процент и время.
-- Программа выводит сумму процентов.
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8: Нахождение среднего арифметического
-
-**Описание:** Напишите программу, которая находит среднее арифметическое списка чисел.
-
-**Требования:**
-- Пользователь вводит числа, разделенные запятыми.
-- Программа вычисляет и выводит среднее арифметическое.
+**Описание:** 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 9: Расчет объемов фигур
 
-**Описание:** Напишите программу, которая рассчитывает объемы различных фигур (куб, параллелепипед, цилиндр).
-
-**Требования:**
+**Описание:** Напишите функцию, которая рассчитывает объемы различных фигур (куб, параллелепипед, цилиндр).
 - Пользователь выбирает фигуру и вводит необходимые размеры.
 - Выводите объем фигуры по формуле.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 10: Расчет финансового бюджета
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 10: ???
 
-Описание: Напишите программу, которая помогает пользователю вести бюджет.
-
-Требования:
-- Пользователь вводит доходы и расходы.
-- Программа должна подсчитывать баланс (доходы - расходы).
-- Позволяйте пользователю добавлять новые доходы и расходы.
+**Описание:**
 
 ___
 
