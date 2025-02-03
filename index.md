@@ -14,7 +14,7 @@
 - [Лабораторная работа 8](labs/labs_8/labs_8.md) - `Библиотеки`
 - [Лабораторная работа 9](labs/labs_9/labs_9.md) - `Запись и чтение файла`
 - Лабораторная работа 10 - `Подведение итогов`
-
+- Экзамен - `Экзаменационные вопросы`
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark.png" alt="Bookmark" width="35" height="35" style="vertical-align: middle" /> Группы
 
