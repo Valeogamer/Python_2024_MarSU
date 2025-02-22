@@ -1,29 +1,19 @@
-print("Введите старые цены через пробел:")
-старые = input().split()
-старые = [float(цена) for цена in старые]
+from typing import TypedDict, List, Union, Optional, Dict
 
-print("\nВведите новые цены через пробел")
-новые = input().split()
-новые = [float(цена) for цена in новые]
+class AnimalData(TypedDict):
+    my_obj: 'MyObj'
+    pets: List[Union['Cat', 'Dog']]
 
-print("\nРезультаты:")
-print("-" * 40)
-общая_инфляция = 0
-for i in range(len(старые)):
-    старая = старые[i]
-    новая = новые[i]
-    инфляция = ((новая - старая) / старая) * 100
-    общая_инфляция += инфляция
-    print(f"Товар {i+1}:")
-    print(f"Старая цена: {старая} руб.")
-    print(f"Новая цена: {новая} руб.")
-    print(f"Инфляция: {инфляция:.1f}%")
-    print("-" * 40)
-средняя_инфляция = общая_инфляция / len(старые)
-print(f"\nСредняя инфляция: {средняя_инфляция:.1f}%")
-if средняя_инфляция < 5:
-    print("Низкий уровень инфляции")
-elif средняя_инфляция < 10:
-    print("Средний уровень инфляции")
-else:
-    print("Высокий уровень инфляции")
+AD = Optional[Dict['MyObj', List[Union['Cat', 'Dog']]]]
+
+class MyObj:
+    pass
+
+class Cat:
+    pass
+
+class Dog:
+    pass
+
+def process_animal_data(data: AnimalData) -> None:
+    pass

@@ -297,6 +297,28 @@ for num in range(5):
 6. Напишите программу, которая выводит все числа от `n` до `k`, которые не делятся на `4` и `6` одновременно. Используйте оператор `continue` для пропуска чисел, которые делятся на оба числа.
 
 
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 5. Подсчет.
+
+Напишите программу на Python, которая принимает строку и подсчитывает количество гласных букв, согласных букв и цифр в этой строке. Программа должна учитывать только русские буквы и цифры.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 6.
+
+Напишите программу, где пользователь вводит любое целое положительное число. А программа суммирует все числа от 1 до введенного пользователем числа.
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 7.
+
+С помощью циклов, выведите на консоль следующий набор символов:
+
+![Таблица](./imgs_5/image.png)
+
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Задание 8.
+
+С помощью циклов, выведите на консоль следующий набор символов:
+
+![Таблица](./imgs_5/image1.png)
+
 ___
 
 [Вернуться на главную страницу](https://valeogamer.github.io/Python_2024_MarSU/)
